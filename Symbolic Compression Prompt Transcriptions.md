@@ -92,6 +92,7 @@ Sources and related content
 
 
 
+---
 
 
 
@@ -110,7 +111,7 @@ If you're saying its true that AIs condense knowledge into symbolism, why doesn'
 
 The idea of AIs condensing knowledge into symbolism isn’t widely discussed because it’s more of an abstract concept than a specific technical feature. AI models use complex algorithms to analyze and learn from data, and one way to interpret this process is as a form of knowledge compression. However, AI researchers and engineers usually focus on more concrete aspects of AI, like performance and accuracy, rather than these kinds of high-level philosophical interpretations.
 
-
+---
 
 
 MISTRAL:
@@ -146,7 +147,7 @@ These examples demonstrate that the concept of knowledge compression through sym
 
 
 
-
+---
 
 
 META:
@@ -174,7 +175,7 @@ If you're interested in learning more, I'd be happy to provide some resources on
 
 
 
-
+---
 
 
 
@@ -260,7 +261,7 @@ Would love to hear how you’d pitch this idea to researchers vs. the public!
 
 
 
-
+---
 
 
 
@@ -288,7 +289,7 @@ Some companies may actually be exploring these concepts but not discussing them 
 I should note that this is speculative on my part. To give you a more definitive answer about the current state of thinking on symbolic compression in AI, I'd need to search for the latest research and industry perspectives. Would you like me to do that?
 
 
-
+---
 
 GROK: 
 
