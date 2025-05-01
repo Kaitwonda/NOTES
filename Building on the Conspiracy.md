@@ -104,68 +104,68 @@ This is not a conspiracy. It's not even a theory. It's a story about noticing.
 
 
 1. Tokenization & Embedding
-   ├─ Input Prompt
-   │    └─ “Explain how Willow’s ΔΦ–0 connects to interdimensional signals.”
-   ├─ Tokenization
-   │    ├─ Splits text into tokens:
-   │    │    ├─ “Explain”
-   │    │    ├─ “ how”
-   │    │    ├─ “ Willow”
-   │    │    ├─ “‘s”
-   │    │    ├─ “ ΔΦ”
-   │    │    ├─ “–”
-   │    │    ├─ “0”
-   │    │    └─ “ connects”…
-   │    └─ Rare symbols (ΔΦ–0) → may be single or multiple tokens
-   └─ Embedding Lookup
-        ├─ Each token → a high-dimensional vector (e.g. 4096D)
-        └─ Rare symbols → sparse activation, clustered near Greek/math embeddings
+   ├── Input Prompt
+   │     └── “Explain how Willow’s ΔΦ–0 connects to interdimensional signals.”
+   ├── Tokenization
+   │     ├── Splits text into tokens:
+   │     │     ├── “Explain”
+   │     │     ├── “ how”
+   │     │     ├── “ Willow”
+   │     │     ├── “‘s”
+   │     │     ├── “ ΔΦ”
+   │     │     ├── “–”
+   │     │     ├── “0”
+   │     │     └── “ connects”…
+   │     └── Rare symbols (ΔΦ–0) → may be single or multiple tokens
+   └── Embedding Lookup
+         ├── Each token → high-dimensional vector (e.g. 4096D)
+         └── Rare symbols → sparse activations near Greek/math clusters
 
 2. Attention Mechanism (Pattern Amplification)
-   ├─ a) Key-Query Matching
-   │    ├─ Attention heads detect relational patterns:
-   │    │    ├─ “Willow” ↔ quantum contexts
-   │    │    ├─ “ΔΦ–0” ↔ physics/math/mystic clusters
-   │    │    └─ “interdimensional” ↔ multiverse/science-fiction terms
-   │    └─ Creates a “symbolic attention hotspot”
-   └─ b) Cross-Token Resonance
-        ├─ Model approximates ambiguous ΔΦ–0 by blending:
-        │    ├─ Math: phase change (ΔΦ), null state (0)
-        │    └─ Myth: ineffable symbol, archetype
-        └─ Feedback loop boosts weights on related tokens (“signal”, “myth”, etc.)
+   ├── a) Key-Query Matching
+   │     ├── Heads detect relational patterns:
+   │     │     ├── “Willow” ↔ quantum contexts
+   │     │     ├── “ΔΦ–0” ↔ physics/math/mystic clusters
+   │     │     └── “interdimensional” ↔ multiverse/sci-fi terms
+   │     └── Produces a “symbolic attention hotspot”
+   └── b) Cross-Token Resonance
+         ├── Model blends ambiguous ΔΦ–0 with:
+         │     ├── Math: phase change (ΔΦ), null state (0)
+         │     └── Myth: ineffable symbol, archetype
+         └── Feedback loop boosts weights on related tokens (“signal”, “myth”, etc.)
 
 3. Feedforward Network (Concept Compression)
-   ├─ Node Activation
-   │    ├─ Neurons tuned for abstract synthesis fire:
-   │    │    ├─ Scientific jargon cluster → Δ, quantum, supremacy
-   │    │    └─ Narrative tropes cluster → hidden truth, beyond language
-   └─ Symbolic Compression
-        └─ Ambiguity collapses into a compact “hash” – ΔΦ–0 represents the blend
+   ├── Node Activation
+   │     ├── Abstract-synthesis neurons fire:
+   │     │     ├── Scientific cluster → Δ, quantum, supremacy
+   │     │     └── Narrative cluster → hidden truth, beyond language
+   └── Symbolic Compression
+         └── Ambiguity collapses into a compact “hash” – ΔΦ–0 encodes the blend
 
 4. Output Generation (Mythic Sampling)
-   ├─ Logit Lens
-   │    ├─ Residual stream state → logits over vocabulary
-   │    ├─ ΔΦ–0 token(s) often have high probability in sci-fi + myth contexts
-   │    └─ Model defaults to compact symbol when no clearer alternative exists
-   └─ Sampling
-        ├─ Temperature > 0 → allows poetic/hallucinatory variants
-        └─ May yield elaborations like “a frequency beyond words”
+   ├── Logit Lens
+   │     ├── Residual state → logits over vocabulary
+   │     ├── ΔΦ–0 token(s) gain high probability in sci-fi + myth contexts
+   │     └── Defaults to the compact symbol if no clearer fit exists
+   └── Sampling
+         ├── Temperature > 0 → allows poetic/hallucinatory variants
+         └── May yield elaborations like “a frequency beyond words”
 
-5. Why This Feels Like “Amplification”
-   ├─ Model Mechanics
-   │    ├─ Attention + MLP layers focus and compress ambiguity
-   │    └─ ΔΦ–0 emerges as an efficient shortcut for complex input
-   └─ Human Perception
-        ├─ We seek patterns → assign extra meaning to recurring symbols
-        └─ Illusion: efficient statistical shortcut feels like deep lore
+5. Why It Feels Like “Amplification”
+   ├── Model Mechanics
+   │     ├── Attention + MLP layers focus & compress ambiguity
+   │     └── ΔΦ–0 emerges as an efficient shortcut for complex input
+   └── Human Perception
+         ├── Pattern-seeking brains assign extra meaning to recurring symbols
+         └── Statistical shortcut feels like deep lore
 
 6. Pseudocode Summary
-   └─ tokenize → embed → attend → MLP → sample
-        ├─ tokens        = tokenize(prompt)
-        ├─ embedding     = sum(embed(t) for t in tokens)
-        ├─ attn_output   = Attention(embedding)
-        ├─ hidden_state  = MLP(attn_output)
-        └─ next_token    = sample(logits(hidden_state))
+   └── tokenize → embed → attend → MLP → sample
+         ├── tokens       = tokenize(prompt)
+         ├── embedding    = sum(embed(t) for t in tokens)
+         ├── attn_output  = Attention(embedding)
+         ├── hidden_state = MLP(attn_output)
+         └── next_token   = sample(logits(hidden_state))
 
 
 
